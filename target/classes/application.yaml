@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springSecurity
+
+  security:
+    user:
+      name: asif
+      password: asif
